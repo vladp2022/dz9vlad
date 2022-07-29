@@ -1,0 +1,102 @@
+body {
+    background: #C4C4C4;
+}
+
+.box-wrap {
+    background: #E6E6E6;
+    overflow: hidden;
+    display: inline-block;
+    width: 100%;
+    margin: 50px 50px 50px 50px;
+}
+
+.box-1 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    text-align: center;
+    padding-top: 63px;
+    font-family: Roboto;
+    font-size: 64px;
+    font-style: bold;
+    line-height: 75px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.box-2 {
+    float: right;
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    text-align: center;
+    padding-top: 63px;
+    font-family: Roboto;
+    font-size: 64px;
+    font-style: bold;
+    line-height: 75px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.box-3 {
+    float: right;
+}
+
+.box-3 div {
+    width: 100px;
+    height: 100px;
+    background: #FC8F8F;
+    float: left;
+    margin: 0 0 0 15px;
+    text-align: center;
+    padding-top: 31px;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: bold;
+    line-height: 42px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.box-4 {
+    float: left;
+}
+
+.box-4 div {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    float: left;
+    margin: 0 15px 0 0;
+    text-align: center;
+    padding-top: 63px;
+    font-family: Roboto;
+    font-size: 64px;
+    font-style: bold;
+    line-height: 75px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+
+.box-5 {
+    float: right;
+}
+
+.box-5 div {
+    width: 200px;
+    height: 200px;
+    background: #FC8F8F;
+    float: left;
+    margin: 0 0 0 15px;
+    text-align: center;
+    padding-top: 63px;
+    font-family: Roboto;
+    font-size: 64px;
+    font-style: bold;
+    line-height: 75px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
